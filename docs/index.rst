@@ -1,84 +1,64 @@
-Managed Service Provider – How AlertOps Helps MSP Scale Digital Transformation.
+How to Create an Effective Incident Response Playbook
 ========
+Oftentimes, enterprises struggle to notify customers, employees, partners and other key stakeholders about incidents. Yet failure to maintain constant communication with key stakeholders may slow down incident response. Worst of all, a lack of communication may put customer relationships in danger and lead to revenue losses, brand reputation damage and other long-lasting business issues.
 
- 
- The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them.
+Ultimately, an incident response playbook is a must-have for enterprises, as it provides steps to ensure key stakeholders can stay up to date throughout an incident. Developing an effective incident response playbook, however, is rarely simple. Fortunately, there are lots of things you can do to create an incident response playbook that ensures constant communication with key stakeholders until an incident is fully resolved.
 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Let’s take a look at six steps to include in an incident response playbook.
 
-Not One Size Fits All
-========
+    Preparation
 
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+An incident may affect any enterprise, at any time. But there are many ways that an enterprise can prepare for downtime, outages and other major incidents, such as:
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+    Train your employees. Ensure workers understand their incident response roles and know exactly what to do during an incident.
+    Use incident response drills. Conduct training exercises to teach workers how to react and respond to incidents.
+    Update your incident response plan. Document your incident response strategy and test and update it regularly.
 
-Automate Processes
-========
+Remember, there is no such thing as too much preparation. If your enterprise devotes time and resources to incident preparedness, it may be better equipped than ever before to avoid costly, time-consuming incidents.
 
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+    Identification
 
-Clarity
-========
+An alert monitoring system plays a vital role in incident response. This system enables an enterprise to identify an incident as soon as it happens. Plus, the system ensures key stakeholders can remain in contact with one another and work together to quickly resolve an incident.
 
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Of course, not all alert tracking systems are identical, and it is crucial to deploy an alert monitoring system equipped with the following capabilities:
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
- 
-Insightful Notifications
-========
+    Custom Templates: Provide the flexibility to define the time spent, workaround, cause, classification and other relevant incident information, send alerts to the right incident response team members and comply with service-level agreements (SLAs).
+    Custom Messaging: Offers “Message Rules” that define alert delivery rules and workflow actions.
+    Workflow Automation: Guarantees messages and status and resolution updates are automatically delivered to the right incident response team members, at the right time, every time.
 
+The aforementioned capabilities empower enterprises to speed up incident response. They ensure incident response team members can collaborate with one another, and as a result, find ways to stop an incident before it gets out of hand.
 
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+    Containment
 
-Conclusion
-========
+After an incident is identified, an incident response team is responsible for limiting its impact. With a containment strategy in place, an incident response team can implement a quick-fix solution to minimize incident damage. Then, the team can continue to explore a long-term solution to prevent an incident from occurring once again.
 
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+A containment strategy is paramount, as it helps an enterprise stop an incident from spreading. If an incident response team has a plan to contain an incident, this team can act quickly to manage downtime, outages and similar problems. Furthermore, an incident response team can review all aspects of an incident, find out why it happened and take the necessary steps to ensure a one-time incident does not become a recurring issue.
 
-1 Red Canary 2021 Threat Detection ReportWhat are the incident management capabilities that Managed Service Provider (MSPs) need to help their customers digitally transform?
+    Eradication
 
-In an era where speed, productivity, and user experiences matter most what are the incident management capabilities managed service provider  need most to grow, transform and mature their digital operations, processes and serve more organizations, faster and more efficiently.
+Following incident containment, an incident response team must determine how to eliminate this problem. Therefore, incident eradication may require an incident response team to implement various measures and evaluate the effectiveness of these measures over time.
 
-Many of today’s enterprises still have operations that are largely manual, reactive and lack the in-house resources and expertise to undertake a digital transformation initiative. To succeed in our digital world, businesses need to become real-time, automated, and proactive. And this is where MSP’s come in, they bring a rich mix of solution, industry vertical and geographic focus, and expertise to serve unique and complex needs across a variety of DevOps, ITOps, CloudOps, Customer Service, Security Operations, and Industrial Ops business areas. Today more than ever it is critical that all businesses move from traditional incident management to digital operations and automated-driven transformation.
+Effective incident eradication requires close monitoring and evaluation. If an incident response team uses incident reporting and analytics tools, this team can gain the insights it needs to put incidents in the past. As such, this team can deploy a data-driven approach to incident response and take the right steps to resolve an incident.
 
-The AlertOps Platform helps MSP’s optimize the customer experience processes with world class end-to-end issue resolution capabilities. Our MSP customers rely on the AlertOps Platform with its industry-leading capabilities to help across all parts of real-time digital operations, including detecting and understanding incidents, responding, orchestrating, and automating real-time work, as well as providing an analytic-based approach to process and operations improvements.
+    Recovery
 
-Capabilities that help managed service provider of all sizes better meet end customer needs with real-time, automated incident management. Ensuring continuous service delivery for the customers they serve, with advanced features to help IT teams detect and respond to outages and better manage their digital operations across the organization
+An enterprise likely requires time to return to normal business operations after an incident. By planning for the incident recovery period, an enterprise can get its operations up and running without delay.
 
-Key capabilities that help MSP’s deliver exceptional incident response management:
-managed service provider
+During the recovery period, it is important for an incident response team to monitor its efforts, too. If an incident response team tracks its incident recovery time and other pertinent information, it can use this data to understand how long it takes to restore affected networks and systems. Next, an incident response team can use this information to drive faster, more efficient recovery following future incidents.
 
-Automation To Accelerate Incident Resolution
+    Lessons Learned
+
+Every incident is a learning opportunity, and it is an incident response team’s responsibility to analyze an incident from all angles. By doing so, an incident response team can identify the root cause of an incident and find ways to bolster its incident response efforts.
+
+Generally, it is beneficial for an incident response team to meet following an incident. Team members then can brainstorm ways to drive incident response improvements, as well as consider how to put their ideas into action.
+
+The aforementioned steps can help an incident response team streamline major incident management. Thanks to an incident response playbook, an enterprise can use these steps to manage incidents like never before.
+
+source:
 ====
-Resolve major incidents at light-speed with improved granularity and flexibility. Reduce Mean Time to Repair (MTTR) – with finely tuned options and enhanced capabilities. For example, when an incident occurs, automatically open a ticket in ServiceNow, create a Slack Channel, update your Status Page, and notify relevant teams team based on the type of incident – simultaneously. Each business service can require a specific and unique service level agreement SLA requiring a specific workflow and notification process. With the technology that helps support teams work in concert delivering critical business services and preventing SLA breaches.
-
-Easily Create Complex SLA-based Workflows
+https://alertops.com/create-incident-response-playbook/
+Read more:
 ====
-Fully automate incident management workflows based on rules, such as severity (P1, P2, P3, P4) manage outage communication using one of our pre-built Incident Response Templates that feature custom messaging for tech responders, stakeholders, and customers, based on their role. Orchestrate and automate your ticket lifecycle with bi-directional integrations between AlertOps and your ITSM tools. And for major incidents, the platform can automatically coordinate resolvers and mobilize a war room via web CD-Collaboration, toolchain-automation, conference bridge, chat, or API.
-
-Tools To Collaborate Seamlessly and Mobilize the Right Resources, In Real Time, Every Time
-=====
-The AlertOps Platform helps your organization collaborate seamlessly across Engineering/Operations and Customer Service to proactively manage customer issues. It is a platform designed from the ground up to ensure smooth management of agreed to SLAs across customer incidents with full case ownership and automated escalation to mobilize the right resources, in real time, every time.
-
-Proven Technology to Keep-Pace with Customer Expectations
-=====
-Today, customers expect and demand immediate action when the services they depend on are impacted. And this is where AlertOps helps by enabling rapid and automated escalation policies, bidirectional communications to quickly mobilize and activate the right response. Fully leveraging AlertOps technology to drive loyalty, improve NPS/CSAT scores, and exceed customer SLAs with faster, cross-organizational alignment across response teams.
-
-Cut Through the Noise and Chart the Fastest Path to Resolution
-=====
-Events are more than binary data – they take place within a meaningful context, for this AlertOps offers industry-leading alert intelligence filtering enabling you to group, suppress and delay alerts based on your own custom preferences. Cut the noise, focus on what matters. Using our dynamic routing match and escalate alerts to the right team based on detailed source data (source, issue type, skills, customer, etc.)
-
-Schedule a demonstration today or learn more about AlertOps for managed service providers.
-
-Source:
-========
-https://alertops.com/managed-service-provider/
-
-readmore:
-========
 
 https://alertops.com/noc-dashboard-examples/
 https://alertops.com/major-outage-black-friday/
@@ -95,3 +75,152 @@ https://alertops.com/devops-ci-cd/
 https://alertops.com/on-call-management/
 https://alertops.com/covid-remote-team/
 https://alertops.com/improve-critical-incident-management/
+https://alertops.com/devops-barriers/
+https://alertops.com/devops-periodic-table/
+https://alertops.com/alertops-integration-with-amazon-web-service-cloud-watch/
+https://alertops.com/alertops-and-appdynamics-integration/
+https://alertops.com/catchpoint-poor-web-performance-blog/
+https://alertops.com/alertops-and-icinga-integration/
+https://alertops.com/alertops-and-jira-integration/
+https://alertops.com/alertops-and-librato-integration/
+https://alertops.com/alertops-and-server-density-integration/
+https://alertops.com/alertops-announces-new-coo/
+https://alertops.com/alertops-announces-playbook-automation-focusing-on-critical-enterprise-needs-in-fast-growing-incident-response-market/
+https://alertops.com/alertops-monitorama/
+https://alertops.com/alertops-announces-connectwise-manage-integration/
+https://alertops.com/alertops-automation/
+https://alertops.com/alertops-expert-guidance/
+https://alertops.com/alertops-flexibility/
+https://alertops.com/alertops-and-apteligent-integration/
+https://alertops.com/think-youre-cut-out-for-hipchat-integration/
+https://alertops.com/why-we-love-slack-integration-and-you-should-too/
+https://alertops.com/alertops-microsoft-azure-integration/
+https://alertops.com/alertops-pingdom-integration/
+https://alertops.com/pagerduty-comparison-alert-management/
+https://alertops.com/pagerduty-comparison-analytics/
+https://alertops.com/pagerduty-comparison-incidents/
+https://alertops.com/pagerduty-comparison-alert-templates/
+https://alertops.com/pagerduty-comparison-incident-management-workflow/
+https://alertops.com/pagerduty-comparison-incident-api/
+https://alertops.com/pagerduty-sla-incident-management/
+https://alertops.com/pagerduty-comparison-flexibility/
+https://alertops.com/pagerduty-comparison-itil-mttr/
+https://alertops.com/alertops-paging-for-enterprise/
+https://alertops.com/covid-19-business-continuity-alerting-plan/
+https://alertops.com/alertops-service-management-for-enterprise/
+https://alertops.com/alertops-software-appoints/
+https://alertops.com/alertops-unveils-heartbeat-monitoring/
+https://alertops.com/application-performance-monitoring/
+https://alertops.com/best-practices-incident-resolution/
+https://alertops.com/major-incident-management-best-practices/
+https://alertops.com/on-call-rotation/
+https://alertops.com/devops-team/
+https://alertops.com/best-practices-high-performing-teams/
+https://alertops.com/cost-of-downtime/
+https://alertops.com/alertops-paging-feature/
+https://alertops.com/collaboration-key/
+https://alertops.com/covid-pandemic-business-continuity/
+https://alertops.com/major-critical-incidents/
+https://alertops.com/devops-automation/
+https://alertops.com/devops-vs-agile/
+https://alertops.com/reduce-downtime-digital-retail/
+https://alertops.com/do-you-need-different-slas-for-each-customer/
+https://alertops.com/msp-backup/
+https://alertops.com/noc-data-center/
+https://alertops.com/team-management/
+https://alertops.com/gdpr-devops-team/
+https://alertops.com/alertops-and-service-now-integration/
+https://alertops.com/standardized-incident-response-process/
+https://alertops.com/alertops-and-uptime-robot-integration/
+https://alertops.com/msps-cloud-services/
+https://alertops.com/alert-fatigue-teams/
+https://alertops.com/continuous-delivery-impacts-devops/
+https://alertops.com/outage-cost/
+https://alertops.com/no-code-integrations/
+https://alertops.com/on-call-schedule/
+https://alertops.com/choose-incident-management-tool/
+https://alertops.com/communicate-customers-outage/
+https://alertops.com/create-incident-response-playbook/
+https://alertops.com/building-management-system/
+https://alertops.com/how-will-you-notify-your-customers-when-a-hipaa-data-breach-occurs/
+https://alertops.com/proactive-vs-reactive-teams/
+https://alertops.com/do-you-need-to-notify-your-customers-when-personal-information-is-leaked-due-to-a-data-breach-2/
+https://alertops.com/do-your-strategic-partners-know-when-you-have-a-critical-outage/
+https://alertops.com/replace-opsgenie-connectwise-manage/
+https://alertops.com/reach-the-right-person/
+https://alertops.com/devops-roadmap/
+https://alertops.com/improve-itops-collaboration-and-reduce-mttr-with-splunk/
+https://alertops.com/do-you-need-to-notify-your-customers-when-personal-information-is-leaked-due-to-a-data-breach/
+https://alertops.com/incident-communication-business-partners/
+https://alertops.com/incident-management-lifecycle-essentials/
+https://alertops.com/incident-management-metrics/
+https://alertops.com/incident-management-process/
+https://alertops.com/incident-post-mortem/
+https://alertops.com/major-incident-response-communications-plan/
+https://alertops.com/incident-response-quality-quantity/
+https://alertops.com/alertops-and-prtg-integration/
+https://alertops.com/incident-management-schedule/
+https://alertops.com/itnation/
+https://alertops.com/it-process-automation-for-managed-service-providers/
+https://alertops.com/implement-it-service-alerting/
+https://alertops.com/check-itsm-article-rick-leopoldi/
+https://alertops.com/alertops-and-copperegg-integration/
+https://alertops.com/how-do-you-notify-customers-when-there-is-a-data-security-breach/
+https://alertops.com/alertops-and-solarwinds-integration/
+https://alertops.com/incident-management-predictions-2018/
+https://alertops.com/msp-automation/
+https://alertops.com/live-inbound-call-routing/
+https://alertops.com/managed-service-provider/
+https://alertops.com/modern-itsm-solutions-creativity-incident-response/
+https://alertops.com/modern-it-flexibility-in-incident-response/
+https://alertops.com/msp-security/
+https://alertops.com/mttd-vs-mttf-vs-mtbf-vs-mttr/
+https://alertops.com/noc-best-practices/
+https://alertops.com/no-code-for-developers/
+https://alertops.com/noc-vs-soc/
+https://alertops.com/outage-or-breach/
+https://alertops.com/best-pagerduty-alternative/
+https://alertops.com/alertops-and-errorception-integration/
+https://alertops.com/discover-how-powerful-the-new-relic-integration-is/
+https://alertops.com/catchpoint-rage-and-lessons-from-outages/
+https://alertops.com/alertops-and-netcrunch-integration/
+https://alertops.com/alertops-and-nodeping-integration/
+https://alertops.com/spiceworks-our-spiciest-integration/
+https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-runscope-integration/
+https://alertops.com/stakeholder-communications-plan/
+https://alertops.com/noc-team-engineers/
+https://alertops.com/eliminate-alert-fatigue/
+https://alertops.com/budget-technical-debt-reduction/
+https://alertops.com/downtime-costs/
+https://alertops.com/live-inbound-call-routing-2/
+https://alertops.com/alertops-team-management-for-enterprises/
+https://alertops.com/alertops-better-than-pagerduty-2/
+https://alertops.com/alertops-better-than-pagerduty-10-2/
+https://alertops.com/alertops-better-than-pagerduty-3/
+https://alertops.com/alertops-better-than-pagerduty-4/
+https://alertops.com/alertops-better-than-pagerduty-5/
+https://alertops.com/alertops-better-than-pagerduty-6/
+https://alertops.com/alertops-better-than-pagerduty-7/
+https://alertops.com/alertops-better-than-pagerduty-8/
+https://alertops.com/alertops-better-than-pagerduty-9/
+https://alertops.com/network-operations-center/
+https://alertops.com/blameless-post-mortems/
+https://alertops.com/what-is-devops/
+https://alertops.com/internet-of-things/
+https://alertops.com/infrastructure-management/
+https://alertops.com/it-monitoring/
+https://alertops.com/on-call/
+https://alertops.com/it-operations-management/
+https://alertops.com/itil-incident-management/
+https://alertops.com/mttr/
+https://alertops.com/proactive-incident-management/
+https://alertops.com/why-alertops-best-pagerduty-alternative/
+https://alertops.com/alertops-workflows-3/
+https://alertops.com/itsm/
+https://alertops.com/benefits-incident-management-software-retailers/
+https://alertops.com/alertops-slas/
+https://alertops.com/incident-management-software/
+https://alertops.com/do-you-need-to-meet-sla-targets/
+https://alertops.com/alertops-integration-features/
+https://alertops.com/black-friday-win/
