@@ -1,41 +1,62 @@
-AlertOps Expert Guidance
+How to Create an Effective Incident Response Playbook
 ========
+Oftentimes, enterprises struggle to notify customers, employees, partners and other key stakeholders about incidents. Yet failure to maintain constant communication with key stakeholders may slow down incident response. Worst of all, a lack of communication may put customer relationships in danger and lead to revenue losses, brand reputation damage and other long-lasting business issues.
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Ultimately, an incident response playbook is a must-have for enterprises, as it provides steps to ensure key stakeholders can stay up to date throughout an incident. Developing an effective incident response playbook, however, is rarely simple. Fortunately, there are lots of things you can do to create an incident response playbook that ensures constant communication with key stakeholders until an incident is fully resolved.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Let’s take a look at six steps to include in an incident response playbook.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+    Preparation
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+An incident may affect any enterprise, at any time. But there are many ways that an enterprise can prepare for downtime, outages and other major incidents, such as:
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+    Train your employees. Ensure workers understand their incident response roles and know exactly what to do during an incident.
+    Use incident response drills. Conduct training exercises to teach workers how to react and respond to incidents.
+    Update your incident response plan. Document your incident response strategy and test and update it regularly.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Remember, there is no such thing as too much preparation. If your enterprise devotes time and resources to incident preparedness, it may be better equipped than ever before to avoid costly, time-consuming incidents.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+    Identification
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+An alert monitoring system plays a vital role in incident response. This system enables an enterprise to identify an incident as soon as it happens. Plus, the system ensures key stakeholders can remain in contact with one another and work together to quickly resolve an incident.
 
-1 Red Canary 2021 Threat Detection Report
+Of course, not all alert tracking systems are identical, and it is crucial to deploy an alert monitoring system equipped with the following capabilities:
+
+    Custom Templates: Provide the flexibility to define the time spent, workaround, cause, classification and other relevant incident information, send alerts to the right incident response team members and comply with service-level agreements (SLAs).
+    Custom Messaging: Offers “Message Rules” that define alert delivery rules and workflow actions.
+    Workflow Automation: Guarantees messages and status and resolution updates are automatically delivered to the right incident response team members, at the right time, every time.
+
+The aforementioned capabilities empower enterprises to speed up incident response. They ensure incident response team members can collaborate with one another, and as a result, find ways to stop an incident before it gets out of hand.
+
+    Containment
+
+After an incident is identified, an incident response team is responsible for limiting its impact. With a containment strategy in place, an incident response team can implement a quick-fix solution to minimize incident damage. Then, the team can continue to explore a long-term solution to prevent an incident from occurring once again.
+
+A containment strategy is paramount, as it helps an enterprise stop an incident from spreading. If an incident response team has a plan to contain an incident, this team can act quickly to manage downtime, outages and similar problems. Furthermore, an incident response team can review all aspects of an incident, find out why it happened and take the necessary steps to ensure a one-time incident does not become a recurring issue.
+
+    Eradication
+
+Following incident containment, an incident response team must determine how to eliminate this problem. Therefore, incident eradication may require an incident response team to implement various measures and evaluate the effectiveness of these measures over time.
+
+Effective incident eradication requires close monitoring and evaluation. If an incident response team uses incident reporting and analytics tools, this team can gain the insights it needs to put incidents in the past. As such, this team can deploy a data-driven approach to incident response and take the right steps to resolve an incident.
+
+    Recovery
+
+An enterprise likely requires time to return to normal business operations after an incident. By planning for the incident recovery period, an enterprise can get its operations up and running without delay.
+
+During the recovery period, it is important for an incident response team to monitor its efforts, too. If an incident response team tracks its incident recovery time and other pertinent information, it can use this data to understand how long it takes to restore affected networks and systems. Next, an incident response team can use this information to drive faster, more efficient recovery following future incidents.
+
+    Lessons Learned
+
+Every incident is a learning opportunity, and it is an incident response team’s responsibility to analyze an incident from all angles. By doing so, an incident response team can identify the root cause of an incident and find ways to bolster its incident response efforts.
+
+Generally, it is beneficial for an incident response team to meet following an incident. Team members then can brainstorm ways to drive incident response improvements, as well as consider how to put their ideas into action.
+
+The aforementioned steps can help an incident response team streamline major incident management. Thanks to an incident response playbook, an enterprise can use these steps to manage incidents like never before.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
-
+https://alertops.com/create-incident-response-playbook/
 Read more:
 ====
 
